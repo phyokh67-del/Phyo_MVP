@@ -1,21 +1,18 @@
-# Team Profile
-## Team Name
-Write your team name here.
+# My Profile
+## MP the King
+
 ## Team Members and Roles
 | Student ID | Name | Role | Main Responsibility |
 |---|---|---|---|
-| 6812345 | Student A | Product Lead | Define problem and target users |
-
-11
-
-| 6812346 | Student B | Technical Lead | Manage prototype and repository |
-| 6812347 | Student C | UX/UI Lead + Documentation Lead | Design interface and maintain documents |
+| 6709650 | Phyo Min Khant | Product Lead | Define problem and target users |
+| 6812346 | Jake | Technical Lead | Manage prototype and repository |
+| 6865432 | Sir King | UX/UI Lead + Documentation Lead | Design interface and maintain documents |
 ## Team Skills Inventory
 | Member | Technical Skills | Design Skills | Business/Communication Skills |
 |---|---|---|---|
-| Student A | Basic HTML | Canva | Presentation |
-| Student B | JavaScript beginner | Figma beginner | Team coordination |
-| Student C | Spreadsheet | UI layout | Interview questions |
+| Phyo Min Khant | Basic HTML | Canva | Presentation |
+| Jake | JavaScript beginner | Figma beginner | Team coordination |
+| Sir King | Spreadsheet | UI layout | Interview questions |
 ## Team Working Agreement
 1. Meeting schedule: Every Friday after class
 2. Communication channel: LINE group
